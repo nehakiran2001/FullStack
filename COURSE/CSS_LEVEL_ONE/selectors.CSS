@@ -1,0 +1,36 @@
+body{
+  background-image: url(https://content1.jdmagicbox.com/comp/tumkur/20/9999pmulblrstd1008020/catalogue/kalpataru-institute-of-technology-tiptur-tumkur-schools-e2gjqipozl.jpg?interpolation=lanczos-none&output-format=jpg&resize=1024:*&crop=1024:500px;*,*);
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+h1{
+  color:red;
+  background-color: yellow;
+  border:red; border-width:thick;border-style: groove;
+}
+
+
+#cse{
+  color: violet;
+  background-color: aqua;
+  border:red;border-width:thick;border-style:dotted;
+}
+#ise{
+  color:orange;
+  background-color: grey;
+  border:tomato;border-width: thick;border-style: dashed;
+
+  border-width:thick;
+}
+p{
+  color: dodgerblue;
+  background-color: white;
+}
+ul{
+  color: purple;
+  background-color: pink;
+}
+
+a{
+  background-color: mediumseagreen;
+}

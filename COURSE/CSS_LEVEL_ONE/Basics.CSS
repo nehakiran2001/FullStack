@@ -1,0 +1,14 @@
+h1{
+  color:#fc0b03;
+background:rgba(0,255,255,0.5);
+}
+body{
+  background:url(https://earthsky.org/upl/2020/06/ocean-apr27-2020-Cidy-Chai-North-Pacific-sq.jpeg);
+}
+div{
+  color:blue;
+  background-color:rgba(242,107,10,0.5);
+  border:solid red;
+  border_width:5;
+  border_style:5;
+}

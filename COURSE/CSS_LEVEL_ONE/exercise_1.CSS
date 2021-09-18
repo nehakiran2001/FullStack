@@ -1,0 +1,18 @@
+body{
+  background:url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sunset-quotes-21-1586531574.jpg?crop=1.00xw:0.752xh;0,0.0601xh&resize=1200:*);
+}
+
+
+
+h3{
+color:red;
+  background:yellow;
+}
+.Firstdiv{
+  color:blue;
+  background:url(https://earthsky.org/upl/2020/06/ocean-apr27-2020-Cidy-Chai-North-Pacific-sq.jpeg);
+}
+.Seconddiv{
+  color:rgba(72,6,3,0.5);
+  background:#03fc88;
+}
